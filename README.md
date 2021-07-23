@@ -1,5 +1,5 @@
 # Paint-WebApplication
-- Web-based Paint Application 
+- Web-based Paint Application :-
 
 Back-end with spring-boot. 
 
@@ -7,7 +7,9 @@ Front-end with Vue.js.
 
 - Objective : Applying principles of oop and design patterns. Using vue.js and spring boot.
 - We are team of 4.
-- The steps required to run the application :
+
+
+- The steps required to run the application :-
 
 1.Install Vuetify.
 
