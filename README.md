@@ -19,4 +19,4 @@ Front-end with Vue.js.
 
 4.Then Run Front-end so it runs on port 8081
 
-*for more information about the program -like the UML, how we have applied design patterns and Snapshots of the program- you can check the pdf file "Project proposal".*
+*for more information about the program -like the UML, how we have applied design patterns and Snapshots of the program- you can check the pdf file "Web Based Drawing Program".*
