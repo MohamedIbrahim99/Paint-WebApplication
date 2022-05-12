@@ -9,7 +9,7 @@
 
 - Front-end with Vue.js.
 
-- Objective : Applying principles of oop and design patterns. Using vue.js and spring boot.
+- Objective : Applying principles of oop and design patterns.
 - We are team of 4.
 
 
