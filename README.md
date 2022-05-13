@@ -3,7 +3,7 @@
 - Designed a Drawing and Painting web-based application using OOP concepts and Design Patterns. 
 - Implemented the following functionalities for the user on all the shapes : 
   - Draw, Color ,Resize, Move, Copy and Delete using web canvas API.
-  - Undo or Redo any action performed. Save the drawings in JSON formats and import them later.
+  - Undo or Redo any action performed. Save the drawings in JSON and XML formats and import them later.
 
 - Back-end with java spring-boot. 
 
